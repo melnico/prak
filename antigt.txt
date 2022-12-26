@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 мэтод реальизацыи
 alskdsdfasfsafasf
 mufasa
+=======
+>>>>>>> parent of 08e0506 (some more changes with readme`)
